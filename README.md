@@ -4,7 +4,7 @@ Téléinfo (TIC) en mode standard envoyé via mqtt
 
 Projet complet (circuit + code) pour recupérer la téléinfo en mode standard sur un linky EDF et l'envoyer via MQTT a jeedom (ou n'importe quelle autre solution)
 
-Pour la carte je me suis largement inspiré de Mr Hallard, pour le code c'est une ré ecriture complète.
+Je me suis largement inspiré de Mr Hallard.
 
 Les principales fonctionnalités sont :
 * gestion de l'hordatage du mode standard
